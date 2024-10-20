@@ -1,7 +1,7 @@
 ![header](github-header-image.png)
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Projects<br>👯 I’m looking to collaborate on Ecommerce Projects<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Next JS<br>💬 Ask me about JavaScript, React, Express, MongoDB<br>⚡ Fun fact I'm an Introvert
+🔭 I’m currently working on MERN Projects<br>👯 I’m looking to collaborate on Ecommerce Projects<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Next JS<br>💬 Ask me about JavaScript, React, Express, MongoDB <br>📫 How to reach me **saiful2076af@gmail.com** <br>📄 Know about my experiences [Resume](resume link)<br>⚡ Fun fact I'm an Introvert
 
 
 # 💻 Languages, Frameworks and Tools:
